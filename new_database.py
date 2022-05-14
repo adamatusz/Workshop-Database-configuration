@@ -21,7 +21,7 @@ messages_table = """CREATE TABLE messages(
 
 # connection data with the postgres server
 
-DB_PASSWORD = "Zaq123edc#"
+DB_PASSWORD = ""
 HOST = "127.0.0.1"
 
 try:
